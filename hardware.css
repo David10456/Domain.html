@@ -35,8 +35,16 @@ div a {
     font-weight: bold;
 }
 
+.dept-navbar{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+
 div a:hover {
-    color: darkblue;
+    color: whitesmoke;
 }
 
 main {
@@ -53,7 +61,7 @@ section {
 }
 
 h2 {
-    color: #004080;
+    color: darkblue;
 }
 
 ul {
@@ -63,14 +71,17 @@ ul {
 }
 
 
-/*footer {
+footer {
     margin-bottom: 10px;
-    background-color: #004080;
+    background-color: transparent;
     color: white;
     padding: 10px;
-}*/
+}
 
-
+footer a{
+    color: white;
+    text-align: center;
+}
 
 ul{
     float: left;
@@ -84,6 +95,8 @@ ul li{
     margin-left: 62px;
     margin-top: 27px;
     font-size: 14px;
+    color: white;
+    text-align: center;
 }
 
 ul li a{
