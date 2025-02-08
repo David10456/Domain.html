@@ -11,23 +11,3 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
 });
-
-
-
-
-
-
-<header>
-<h1>Hardware Engineering</h1>
-</header>
-<main>
-<section>
-    <p>Learn about the design, development, and testing of computer hardware.</p>
-    <p>Topics covered include:</p>
-    <ul>
-        <li><a href="#">Computer architecture</a></li>
-        <li><a href="#">Digital logic design</a></li>
-        <li><a href="#">Microprocessors and embedded systems</a></li>
-    </ul>
-</section>
-</main>
